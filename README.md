@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="https://tahailyas.com"><img src="https://img.shields.io/badge/Website-tahailyas.com-111?style=flat-square"></a>
+  <a href="https://optivioautomation.com"><img src="https://img.shields.io/badge/Company-optivioautomation.com-0A1628?style=flat-square"></a>
+  <a href="https://tchess.app"><img src="https://img.shields.io/badge/TChess-tchess.app-7C3AED?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/tahailyas"><img src="https://img.shields.io/badge/LinkedIn-tahailyas-0A66C2?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/tahailyasofficial"><img src="https://img.shields.io/badge/Instagram-tahailyasofficial-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
   <a href="https://play.google.com/store/apps/developer?id=Optivio+Automation"><img src="https://img.shields.io/badge/Google_Play-4_apps_live-34A853?style=flat-square&logo=googleplay&logoColor=white"></a>
 </p>
 
@@ -16,9 +19,9 @@
 
 | App | What it is | Stack | Traction |
 |---|---|---|---|
-| [**TChess**](https://play.google.com/store/apps/details?id=app.tchess) | Chess app: 77 bots, AI opponents, 60k puzzles, 300 lessons, fully offline | React Native · Expo · TypeScript | 500+ installs · ⭐ 5.0 (21 reviews) |
+| [**TChess**](https://play.google.com/store/apps/details?id=app.tchess) · [web](https://tchess.app) | Chess app: 77 bots, AI opponents, 60k puzzles, 300 lessons, fully offline | React Native · Expo · TypeScript | 500+ installs · ⭐ 5.0 (21 reviews) |
 | [**DareClock**](https://play.google.com/store/apps/details?id=com.dareclock) | Loud alarm you can only stop by doing push-ups, photo or mind missions. Reps are counted live with on-device pose detection | Kotlin · Jetpack Compose · CameraX · ML Kit | New release |
-| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Beta |
+| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) · [site](https://getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Beta |
 | [**Brick Breaker: Power Rush**](https://play.google.com/store/apps/details?id=com.brickrush) | Arcade brick breaker with ball volleys and missions | Unity · C# | Live |
 
 ### 🛠 Open source
@@ -40,5 +43,7 @@
 - Automation tooling for app publishing, SEO sites and content
 
 ---
+
+<p align="center">All four apps are published on Google Play by <a href="https://play.google.com/store/apps/developer?id=Optivio+Automation">Optivio Automation</a>.</p>
 
 <p align="center"><i>Based in Pakistan 🇵🇰 · Open to collaboration on mobile and automation projects</i></p>
