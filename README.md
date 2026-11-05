@@ -21,16 +21,16 @@
 |---|---|---|---|
 | [**TChess**](https://play.google.com/store/apps/details?id=app.tchess) · [web](https://tchess.app) | Chess app: 77 bots, AI opponents, 60k puzzles, 300 lessons, fully offline | React Native · Expo · TypeScript | 1,000+ installs · ⭐ 4.8 |
 | [**DareClock**](https://play.google.com/store/apps/details?id=com.dareclock) | Loud alarm you can only stop by doing push-ups, photo or mind missions. Reps are counted live with on-device pose detection | Kotlin · Jetpack Compose · CameraX · ML Kit | New release |
-| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) · [site](https://getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Live |
 | [**Brick Breaker: Power Rush**](https://play.google.com/store/apps/details?id=com.brickrush) | Arcade brick breaker with ball volleys and missions | Unity · C# | Live |
+| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) · [site](https://getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Live |
 
 ### 🛠 Open source
 
 - **[reverse-engineer-app-skills](https://github.com/realtahailyas/reverse-engineer-app-skills)**: Claude Code skills that take you from recon to architecture, design system, build, tests, parity diff, rebrand and launch for your own version of any app.
 - **[chess-reels](https://github.com/realtahailyas/chess-reels)**: Automated chess-puzzle reels pipeline: Lichess → Remotion → IG / FB / YT / TikTok.
 - **[kdp-puzzle-book-generator](https://github.com/realtahailyas/kdp-puzzle-book-generator)**: Python puzzle book generator for Amazon KDP: print-ready interiors and covers for word search, maze, crossword and logic books.
-- **[certforge-site](https://github.com/realtahailyas/certforge-site)**: Next.js + Supabase marketing site and SEO blog for the CertForge AWS exam-prep app.
 - **[tahailyas.com](https://github.com/realtahailyas/tahailyas.com)**: my personal site, hand-written HTML/CSS/JS on GitHub Pages.
+- **[certforge-site](https://github.com/realtahailyas/certforge-site)**: Next.js + Supabase marketing site and SEO blog for the CertForge AWS exam-prep app.
 
 ### 🧰 Tech I use daily
 
