@@ -19,9 +19,9 @@
 
 | App | What it is | Stack | Traction |
 |---|---|---|---|
-| [**TChess**](https://play.google.com/store/apps/details?id=app.tchess) · [web](https://tchess.app) | Chess app: 77 bots, AI opponents, 60k puzzles, 300 lessons, fully offline | React Native · Expo · TypeScript | 500+ installs · ⭐ 5.0 (21 reviews) |
+| [**TChess**](https://play.google.com/store/apps/details?id=app.tchess) · [web](https://tchess.app) | Chess app: 77 bots, AI opponents, 60k puzzles, 300 lessons, fully offline | React Native · Expo · TypeScript | 1,000+ installs · ⭐ 4.8 |
 | [**DareClock**](https://play.google.com/store/apps/details?id=com.dareclock) | Loud alarm you can only stop by doing push-ups, photo or mind missions. Reps are counted live with on-device pose detection | Kotlin · Jetpack Compose · CameraX · ML Kit | New release |
-| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) · [site](https://getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Beta |
+| [**CertForge**](https://play.google.com/store/apps/details?id=com.getcertforge.app) · [site](https://getcertforge.app) | Adaptive AWS CLF-C02 exam prep with AI weakness detection | Mobile + Next.js site | Live |
 | [**Brick Breaker: Power Rush**](https://play.google.com/store/apps/details?id=com.brickrush) | Arcade brick breaker with ball volleys and missions | Unity · C# | Live |
 
 ### 🛠 Open source
